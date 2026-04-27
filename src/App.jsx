@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { LayoutDashboard, TrendingUp, AlertTriangle, MapPin } from 'lucide-react';
 
